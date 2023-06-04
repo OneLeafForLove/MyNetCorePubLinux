@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNetCorePubLinux", "MyNetCorePubLinux\MyNetCorePubLinux.csproj", "{56E4D2A4-CE87-4944-901D-C6527AE3E77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUntil", "MyUntil\MyUntil.csproj", "{3DB1312F-902B-4871-83C7-3537FFF4C017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E4D2A4-CE87-4944-901D-C6527AE3E77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E4D2A4-CE87-4944-901D-C6527AE3E77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E4D2A4-CE87-4944-901D-C6527AE3E77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E4D2A4-CE87-4944-901D-C6527AE3E77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB1312F-902B-4871-83C7-3537FFF4C017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB1312F-902B-4871-83C7-3537FFF4C017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB1312F-902B-4871-83C7-3537FFF4C017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB1312F-902B-4871-83C7-3537FFF4C017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBB4999-C3A1-4E3D-A6F4-1D523879021A}
+	EndGlobalSection
+EndGlobal
